@@ -358,7 +358,7 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 ```license
 MIT License
 
-Copyright (c) 2025 Github.com/VikashPR
+Copyright (c) 2025 Github.com/RanjeetKumarpandeyy
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -381,9 +381,7 @@ SOFTWARE.
 
 ### 🙏 Credits & Acknowledgements
 
-This list builds upon the great work of others in the community. Special thanks to:
-Himahuja for the initial inspiration and list.
-vvignesh17 for their focused list on Indian institutions.
+This list builds upon the great work of others in the community.
 All Contributors who help keep this list updated and accurate!
 
 <p align="center">
