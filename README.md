@@ -1,1 +1,0 @@
-# Global_internship_link
